@@ -1,0 +1,12 @@
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\bin\Debug\UniversityFinal.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityApp.ResultEntryUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityFinal.MainUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityFinal.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityFinal.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\bin\Debug\UniversityFinal.exe
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\bin\Debug\UniversityFinal.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityFinal.exe
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityFinal.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversittyApp.ShowResultSheetUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+C:\Users\PC21\documents\visual studio 2013\Projects\UniversityFinal\UniversityFinal\obj\Debug\UniversityFinal.csprojResolveAssemblyReference.cache
