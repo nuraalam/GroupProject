@@ -110,7 +110,6 @@
             this.findResultSheetButton.TabIndex = 2;
             this.findResultSheetButton.Text = "Find";
             this.findResultSheetButton.UseVisualStyleBackColor = true;
-            this.findResultSheetButton.Click += new System.EventHandler(this.findResultSheetButton_Click);
             // 
             // emailResultSheetTextBox
             // 
@@ -204,7 +203,7 @@
             this.columnHeader4.Text = "Grade-Letter";
             this.columnHeader4.Width = 98;
             // 
-            // ShowResultSheetUI
+            // ResultSheetUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
