@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using UniversityFinal.BLL;
+using UniversityFinal.DLL.DAO;
 
 namespace UniversittyApp
 {
@@ -16,6 +18,16 @@ namespace UniversittyApp
         {
             InitializeComponent();
         }
+
+        private void findResultSheetButton_Click(object sender, EventArgs e)
+        {
+            CourseEnrollmentBLL aCourseEnrollmentBll = new CourseEnrollmentBLL();
+            Student aStudent = new Student();
+            aStudent.RegNo = regNoResultSheetTextBox.Text;
+            NameResultSheetTextBox.Text = aCourseEnrollmentBll.GetCourseName(aStudent.RegNo);
+            emailResultSheetTextBox.Text = aCourseEnrollmentBll.GetCourseEmail(aStudent.RegNo);
+        }
+
 
     }
 }
